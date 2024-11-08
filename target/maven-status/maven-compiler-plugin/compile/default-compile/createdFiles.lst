@@ -1,0 +1,4 @@
+br\resources\JavaEE8Resource.class
+br\ejb\EjbConsumer.class
+br\jsf\JsfProducer.class
+br\JAXRSConfiguration.class
